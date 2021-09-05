@@ -3,8 +3,8 @@
 <h4>Instructions to run tests</h4>
 
 <h4>Requirements</h4>
-.NET Core 3.1
-Option 1 or option 2 from below
+.NET Core 3.1<br>
+Option 1 or option 2 from below<br>
 
 <h4>Running the tests</h4>
 
