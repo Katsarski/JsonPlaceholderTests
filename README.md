@@ -1,4 +1,5 @@
 <h4>Approach</h4>
+<p>RestSharp for the web request crafting + NUnit for the test execution. Simplistic solution where the HTTP methods are abstracted in a BaseApi class which all Resources inherit, TestContext that acts as a response bucket and maybe could be extended to control some other state that can be reused between different tests/steps, Helpers class with common methods, Contracts where the endpoints are described as C# classes and Resources that control the behavior of the different API resources</p>
 
 <h4>Instructions to run tests</h4>
 
