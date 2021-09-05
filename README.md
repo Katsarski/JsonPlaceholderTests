@@ -13,7 +13,7 @@ dotnet build
 dotnet test -v m -l "console;verbosity=detailed"
 
 <h5>Option 2 - with visual studio</h5>
-<br> 1. Open the solution file
+1. Open the solution file
 <br> 2. Right click on project and select Rebuild
 <br> 3. Open test explorer -> Test from the Visual Studio menu -> Test Explorer
 <br> 4. Click on Run All Tests In View -> available in the test explorer window
